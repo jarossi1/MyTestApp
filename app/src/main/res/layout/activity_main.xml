@@ -35,6 +35,18 @@
         android:layout_gravity="center"
         android:layout_margin="16dp"
         android:text="@string/brands" />
+
+    <ImageView
+        android:id="@+id/beerImage"
+        android:layout_width="wrap_content"
+        android:layout_height="353dp"
+        app:srcCompat="@drawable/defaultbeer" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="107dp"
+        android:text="@string/beer_description_default" />
 </LinearLayout>
 
 

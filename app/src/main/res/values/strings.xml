@@ -1,11 +1,21 @@
 <resources>
     <string name="app_name">MyTestApp</string>
+
     <string name="find_beer">Find Beer!</string>
+
     <string name="brands">No beers selected</string>
+
+    <string name="beer_description_amber">Amber beer has a reddish-brown color from caramel malts, offering a balance of malt sweetness and hop bitterness. It often features flavors of toffee, caramel, and toast. Versatile in food pairings, it\'s a favorite among craft beer lovers.</string>
+    <string name="beer_description_light">Light beer is characterized by its lower calorie and alcohol content, often resulting in a crisp and refreshing taste. It typically features a mild, clean flavor with less malt sweetness and hop bitterness. Its light profile makes it a popular choice for easy drinking and pairing with a variety of foods.</string>
+    <string name="beer_description_brown">Brown beer is known for its deep, rich color and robust malt flavors, often including notes of chocolate, coffee, or nuts. It has a balanced profile with moderate sweetness and a subtle bitterness. Its full-bodied taste makes it a great choice for savoring with hearty foods.</string>
+    <string name="beer_description_dark">Dark beer is distinguished by its deep, rich color and intense malt flavors, often featuring roasted coffee, chocolate, or caramel notes. It typically has a fuller body and a more pronounced sweetness or bitterness. Its bold profile pairs well with robust dishes and desserts.</string>
+    <string name="beer_description_default">Welcome to the Beer Advisor App! Lets Talk Brew!</string>
+
     <string-array name="beer_colors">
         <item>light</item>
         <item>amber</item>
         <item>brown</item>
         <item>dark</item>
     </string-array>
+
 </resources>
